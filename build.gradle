@@ -24,11 +24,6 @@ jacocoTestReport {
 
 test.finalizedBy jacocoTestReport
 
-//sourceSets {
-//    main.kotlin.srcDirs += 'src/main'
-//    test.kotlin.srcDirs += 'src/test'
-//}
-
 repositories {
     mavenCentral()
 }
